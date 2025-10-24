@@ -11,10 +11,10 @@ export function Home() {
         color="text.primary" 
         gutterBottom 
       > 
-        Alquiler de Peliculas 
+        Sistema de creacion de tickets
            </Typography> 
       <Typography variant="h5" align="center" color="text.secondary"> 
-        Descubre y alquila tus películas favoritas por días. 
+        Crea tickets para recibir soporte en diferentes areas de la empresa. 
       </Typography> 
     </Container> 
   ); 
